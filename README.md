@@ -1,6 +1,6 @@
 # Algorithmic-Sciences-task
 
-Oseghale Ihonosetale
+Oseghale Ihonosetale --
 Interview Test Round 
 
 A server script that binds a port and responds to connections (an unlimited amount of concurrent connections),
@@ -14,7 +14,7 @@ python server.py
 
 ```
 
-2. Connect to server by in string arguments to functions
+2. Connect to server by in string arguments to functions. Please ensure you're connected to the same IP address as the server
 
 ```python
 python client.py
